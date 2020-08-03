@@ -46,7 +46,7 @@
   
 ### [29-July-2020 - Day 03]
 
-![Git model](images/git-flow.png)
+![Git model](git-flow.png)
 * Different scenarios of merge conflicts and how to resolve them 
 * Clone Repository
        - DeveloperNotes2Myself
