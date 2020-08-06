@@ -69,3 +69,43 @@
 * solving Git exercise 
 * solving Unix exercise
 
+### [03-Aug-2020 - Day 06]
+* Presenation by different teams about 
+    - awk 
+    - seq
+    - sed
+    - different usages of openssl
+    - Symmetric Encryption AES
+    - Asymmetric Encryption RSA using GPG (My team)
+       - we installed gpg and  kgpg (GUI tool) presented how we can use asymmetric encryption by creating public and private keys 
+       - How to export public key
+       - How to decrypt an encrypted file using sender's public key 
+
+* solving Unix exercise
+
+### [04-Aug-2020 - Day 07]
+* Looked some more Git commands 
+* solving Unix exercise
+
+### [05-July-2020 - Day 08]
+* Mysql Advanced Features (Presentation By Vijaya Narasimhulu)
+    - SQL Architecture
+    - Transaction Concept (ACID Properties)
+    -  Mysql Clusters
+    -  Replication
+    - Securtiy
+    - Data Encryption
+    - Data Partitioning
+* Git Exercise Review
+    - Cleared Doubts in Git Exercise 
+### [06-Aug-2020 - Day 09]
+* SQL Session (Continuation)  
+    - Partitioning examples
+    - Usage and properties diiferent engines examples (innodb,csv,archive) 
+    - Locks
+    - Archive
+    - csv
+    - explain command
+     
+* Meeting with team Quarterly Business Review Sync up     
+
