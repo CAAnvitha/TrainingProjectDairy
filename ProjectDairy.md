@@ -109,3 +109,20 @@
      
 * Meeting with team Quarterly Business Review Sync up     
 
+### [07-Aug-2020 - Day 10]
+* JAVA Session
+    - JVM,JRE,JDK 
+    - Installing intellij IDE
+    - JAVA features(Portablity,Security and etc)
+    - Byte code 
+    - .class and .java file 
+   
+### [10-Aug-2020 - Day 11]
+* JAVA Session(Contiuation)
+    - OOPS concepts introduction
+    - Inheritance
+    - Override and Overloading concepts
+    - usages of some keywords like new,this,extends
+    - Exceptions
+
+
