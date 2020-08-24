@@ -125,4 +125,27 @@
     - usages of some keywords like new,this,extends
     - Exceptions
 
+### [11-August-2020 - Day 12] 
+* Python Basics
+    - Basics of python
+    - Data structures
+    - Generators and comprehensions
+    - Maps and filters
+    - Sample Programs
+    
+### [12-August-2020 - Day 13] 
+* Python advanced
+    - classes
+    - Inheritance
+    - Exceptions
+### [13-August-2020 - Day 14] 
+* Python
+    - Completion of exercises.
+### [17-August-2020 - Day 15] 
+* Javascript
+### [21-August-2020 - Day 16] 
+* React JS Basics
+
+
+    
 
