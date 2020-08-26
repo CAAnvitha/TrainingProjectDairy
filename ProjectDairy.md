@@ -146,6 +146,11 @@
 ### [21-August-2020 - Day 16] 
 * React JS Basics
 
+### [25-August-2020 - Day 17] 
+* Vim Basics
+    - File Operations,Buffers,Movements
+* Started React JS Exercise
+
 
     
 
