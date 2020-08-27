@@ -151,6 +151,9 @@
     - File Operations,Buffers,Movements
 * Started React JS Exercise
 
+### [26-August-2020 - Day 18] 
+* CI/CD gitlab 
+* Continued React Js Exercise
 
     
 
