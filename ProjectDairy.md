@@ -154,6 +154,9 @@
 ### [26-August-2020 - Day 18] 
 * CI/CD gitlab 
 * Continued React Js Exercise
+### [2-Sep-2020 - Day 18] 
+* Regex
 
-    
+
+ 
 
