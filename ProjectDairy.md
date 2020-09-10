@@ -198,14 +198,14 @@
     -  MicroServices
     - COnsistency
     - Devops
-    - CI/CDD more control
+    - CI/CD more control
 * Process Flow  
-
 * Command Workflow
     - create image
     - run and test on local
     - push image
     - pull image
+* Docker compose    
     
     
 
