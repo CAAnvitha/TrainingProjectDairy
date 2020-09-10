@@ -154,15 +154,15 @@
 ### [26-August-2020 - Day 18] 
 * CI/CD gitlab 
 * Continued React Js Exercise
-### [2-Sep-2020 - Day 18] 
+### [2-Sep-2020 - Day 19] 
 * Regex
 * Overview EHR Standards by NRC
 
-### [3-Sep-2020 - Day 19] 
+### [3-Sep-2020 - Day 20] 
 * Regex
 * Pattern Matching
 
-### [4-Sep-2020 - Day 20] 
+### [4-Sep-2020 - Day 21] 
 * Spring COncepts
     - Spring Framework Introduction
     - Spring Framework Core - IOC
@@ -191,7 +191,7 @@
 
 
 
- ### [10-Sep-2020 - Day 18] 
+ ### [10-Sep-2020 - Day 24] 
  
 * Docker Intoducton
 * Need For Docker
