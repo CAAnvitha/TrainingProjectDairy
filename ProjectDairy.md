@@ -156,7 +156,43 @@
 * Continued React Js Exercise
 ### [2-Sep-2020 - Day 18] 
 * Regex
+* Overview EHR Standards by NRC
+
+### [3-Sep-2020 - Day 19] 
+* Regex
+* Pattern Matching
+
+### [4-Sep-2020 - Day 20] 
+* Spring COncepts
+    - Spring Framework Introduction
+    - Spring Framework Core - IOC
+    - Java Based Configurations
+    - Annotation Based Configurations
+    - Resources
+    - Validation, Data Binding, and Type Conversion
+    - Spring Expression Language (SpEL)
+    - AOP
+    - Spring MVC
+    - SpringBoot Intro,Advantages
+* Simple REST API for IPL Scores - Hands On Session
 
 
+### [8-Sep-2020 - Day 22] 
+* Spring Boot
+    - Database Operations (Spring Data with JPA)
+    - Spring Profiles
+    - Dev Tools
+    - Logging
+    - Testing
+
+### [9-Sep-2020 - Day 23] 
+* Testing QA
+
+
+
+ ### [10-Sep-2020 - Day 18] 
  
+* Docker Intoducton
+* Need For Docker
+    - 
 
