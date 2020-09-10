@@ -173,6 +173,7 @@
     - Spring Expression Language (SpEL)
     - AOP
     - Spring MVC
+    ![MVC](SpringMVC.png)
     - SpringBoot Intro,Advantages
 * Simple REST API for IPL Scores - Hands On Session
 
