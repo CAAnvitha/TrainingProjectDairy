@@ -173,7 +173,7 @@
     - Spring Expression Language (SpEL)
     - AOP
     - Spring MVC
-    ![MVC](SpringMVC.png)
+    ![MVC](SpringMVC.png {width=40px height=400px})
     - SpringBoot Intro,Advantages
 * Simple REST API for IPL Scores - Hands On Session
 
@@ -195,5 +195,9 @@
  
 * Docker Intoducton
 * Need For Docker
-    - 
+    -  MicroServices
+    - COnsistency
+    - Devops
+    - CI/CDD more control
+* Process Flow    
 
