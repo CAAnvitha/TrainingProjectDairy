@@ -173,7 +173,7 @@
     - Spring Expression Language (SpEL)
     - AOP
     - Spring MVC
-    ![MVC](SpringMVC.png=200*200)
+    ![MVC](SpringMVC.png)
     - SpringBoot Intro,Advantages
 * Simple REST API for IPL Scores - Hands On Session
 
@@ -199,5 +199,13 @@
     - COnsistency
     - Devops
     - CI/CDD more control
-* Process Flow    
+* Process Flow  
+
+* Command Workflow
+    - create image
+    - run and test on local
+    - push image
+    - pull image
+    
+    
 
