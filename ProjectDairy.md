@@ -173,7 +173,7 @@
     - Spring Expression Language (SpEL)
     - AOP
     - Spring MVC
-    ![MVC](SpringMVC.png {width=40px height=400px})
+    ![MVC](SpringMVC.png=200*200)
     - SpringBoot Intro,Advantages
 * Simple REST API for IPL Scores - Hands On Session
 
