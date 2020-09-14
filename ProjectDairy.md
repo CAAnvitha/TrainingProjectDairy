@@ -207,5 +207,12 @@
     - pull image
 * Docker compose    
     
-    
+### [11-Sep-2020 - Day 25] 
+ 
+* Kubernetes
+* Kubernetes Architecture - Single and Multimaster
+* Workernode Components
+* Control plane components
+* Node components
+
 
